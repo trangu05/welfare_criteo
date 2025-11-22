@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+.env
+
+# Data (prevent committing the huge Criteo dataset)
+data/
+*.csv
+*.csv.gz
+*.parquet
+*.txt
+
+# Logs
+logs/
+*.log
+
+# Model artifacts
+models/
