@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/tranguyen/Library/CloudStorage/OneDrive-YaleUniversity/Documents/welfare_criteo config --list)",
+      "Bash(git -C /Users/tranguyen/Library/CloudStorage/OneDrive-YaleUniversity/Documents/welfare_criteo remote:*)",
+      "Bash(git -C /Users/tranguyen/Library/CloudStorage/OneDrive-YaleUniversity/Documents/welfare_criteo log --all --oneline --graph)"
+    ]
+  }
+}
